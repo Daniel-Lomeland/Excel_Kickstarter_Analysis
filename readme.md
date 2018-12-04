@@ -1,6 +1,6 @@
 # Analyzing Kickstarter Data
 
-This project Uses Excel tables, modifying and analyzing the data of four thousand past Kickstarter projects looking for market trends.
+This project sses Excel tables, modifying and analyzing the data of four thousand past Kickstarter projects looking for market trends.
 
 # Skills used in this project 
 
