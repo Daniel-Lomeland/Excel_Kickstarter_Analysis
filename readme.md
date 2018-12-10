@@ -2,15 +2,6 @@
 
 This project uses Excel tables, modifying and analyzing the data of four thousand past Kickstarter projects looking for market trends.
 
-# Skills used in this project 
-
-
-
-- Conditional formatting
-- Pivot Tables
-- Formatting conversions
-- COUNTIFS()
-- Chart creation
 
 # Data Set
 ![Kickstarter Table](Images/FullTable.PNG)
@@ -19,7 +10,7 @@ This project uses Excel tables, modifying and analyzing the data of four thousan
 - Conditional formatting to highlight different campaign states.
 - Conditional formatting of level of success achieved.
 - Separated Category and Sub-Category into two separate columns.
-- Converted using Unix timestamps into an easier to read format.
+- Converted dates using Unix timestamps into an easier to read format.
 
 
 # Success by Category
@@ -28,13 +19,13 @@ This project uses Excel tables, modifying and analyzing the data of four thousan
 
 
 - Stacked column pivot analyzing by categories the number of campaigns that were "successful," "failed," "cancelled," or are currently "live" per category
-- The table can be filtered by country
+- Table can be filtered by country
 
 # Success by Sub-Category
 ![Subcategory Stats](Images/SubcategoryStats.PNG)
 
 - Stacked column pivot analyzing by categories the number of campaigns that were "successful," "failed," "cancelled," or are currently "live" per category
-- The table can be filtered by country and parent-category
+- Table can be filtered by country and parent-category
 
 # Outcomes Based on Date created
 
