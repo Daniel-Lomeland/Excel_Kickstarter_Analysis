@@ -6,7 +6,7 @@ This project uses Excel tables, modifying and analyzing the data of four thousan
 # Data Set
 ![Kickstarter Table](Images/FullTable.PNG)
 
-- Created `percent funded ` and `Average donation` column.
+- Created percent funded  and Average donation column.
 - Conditional formatting to highlight different campaign states.
 - Conditional formatting of level of success achieved.
 - Separated Category and Sub-Category into two separate columns.
